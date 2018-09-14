@@ -1,4 +1,4 @@
-package com.milo.rxactivity_lib;
+package com.milo.rxactivitylib;
 
 import android.content.Intent;
 import android.os.Bundle;

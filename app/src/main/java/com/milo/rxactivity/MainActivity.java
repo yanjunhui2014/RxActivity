@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.TextView;
 
-import com.milo.rxactivity_lib.ActivityOnResult;
+import com.milo.rxactivitylib.ActivityOnResult;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
