@@ -5,12 +5,12 @@
 implementation 'com.milo:rxactivitylib:0.0.7'
     
 ##根目录中allprojects加入
-maven {</br> 
-    url 'https://repo.rdc.aliyun.com/repository/31621-release-UVGFM4/'</br> 
-    credentials{</br>   
-        username 'ZC8beb'</br> 
-        password 'snSb0jBSE4'</br> 
-    }
+maven {  
+    url 'https://repo.rdc.aliyun.com/repository/31621-release-UVGFM4/'
+&nbsp;&nbsp;&nbsp;&nbsp;credentials{  
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;username 'ZC8beb'  
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;password 'snSb0jBSE4'  
+&nbsp;&nbsp;&nbsp;&nbsp;}  
 }
           
 ##用法
