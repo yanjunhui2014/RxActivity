@@ -7,20 +7,19 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/mTvContent"
+        android:id="@+id/mTvValue"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
         android:gravity="center_horizontal"
-        android:text="Hello World!"
         android:textColor="@android:color/black"
         android:textSize="30sp" />
 
     <Button
-        android:id="@+id/mBtnJump"
+        android:id="@+id/mBtnBack"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
-        android:text="点击跳转" />
+        android:text="点击返回" />
 
 </LinearLayout>
