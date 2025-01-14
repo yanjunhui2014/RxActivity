@@ -38,8 +38,8 @@ uploadArchives {
                 description POM_DESCRIPTION
             }
 
-            repository(url: "https://repo.rdc.aliyun.com/repository/31621-release-UVGFM4/") {
-                authentication(userName: "ZC8beb", password: "snSb0jBSE4")
+            repository(url: "https://packages.aliyun.com/676374b763db393f97de6dd7/maven/2509879-release-3lcqkw") {
+                authentication(userName: "6786608fd6818096cf2712ef", password: "DY66v)XMyb9z")
             }
         }
     }
